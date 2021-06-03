@@ -1,0 +1,926 @@
+/*
+	@name home
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_home_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1400px;
+	height: 2637px;
+}
+
+#1_image {
+	top: 0px;
+	left: 0px;
+	width: 1400px;
+	height: 2637px;
+	background:rgba(255,255,255,255);
+}
+
+#slogan {
+	top: 106px;
+	left: 0px;
+	width: 1400px;
+	height: 800px;
+}
+
+#kelly_sikkema_xb2jlevpns8_unsplash {
+	top: 0px;
+	left: 0px;
+	width: 1400px;
+	height: 827px;
+}
+
+
+#masken_shop_finde_deinen_style {
+	top: 292px;
+	left: 437px;
+	width: 535px;
+	height: 177.5px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 57px;
+	text-align: center;
+	color:#dcdcdc;
+}
+
+#navigationsleiste {
+	top: 0px;
+	left: 0px;
+	width: 1400px;
+	height: 106px;
+}
+
+#home_produkte_kontakt_navi {
+	opacity:0.81;
+	top: 55px;
+	left: 546px;
+	width: 309px;
+	height: 22px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+
+#home {
+	top: 0px;
+	left: 0px;
+	width: 61px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#produkte {
+	top: 0px;
+	left: 104px;
+	width: 89px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kontakt {
+	top: 0px;
+	left: 237px;
+	width: 77px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+#maske_symbol {
+	top: 35px;
+	left: 141px;
+	width: 221px;
+	height: 42.000152587891px;
+}
+
+}
+
+#shape {
+	top: 0px;
+	left: 10px;
+	width: 40px;
+	height: 11.000148773193px;
+}
+
+
+#shape_ek1 {
+	top: 5px;
+	left: 10px;
+	width: 40.001190185547px;
+	height: 37.002906799316px;
+}
+
+
+#shape_ek2 {
+	top: 9px;
+	left: 0px;
+	width: 9.2799987792969px;
+	height: 19.670001983643px;
+}
+
+
+#shape_ek3 {
+	top: 9px;
+	left: 51px;
+	width: 9.2799987792969px;
+	height: 19.670001983643px;
+}
+
+
+#masken_shop_at {
+	top: 18px;
+	left: 60px;
+	width: 166px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#loupe_user_einkaufskorb_navi {
+	top: 45px;
+	left: 1087px;
+	width: 151.58032226562px;
+	height: 32.149963378906px;
+}
+
+#__user {
+	top: 4px;
+	left: 58px;
+	width: 23.477783203125px;
+	height: 28.140502929688px;
+}
+#user {
+	top: 0px;
+	left: 0px;
+	width: 23.477783203125px;
+	height: 28.140502929688px;
+}
+
+#____2 {
+	top: 0px;
+	left: 5px;
+	width: 13.555786132812px;
+	height: 13.555423736572px;
+}
+
+
+#____3 {
+	top: 14px;
+	left: 0px;
+	width: 23.477661132812px;
+	height: 14.54753112793px;
+}
+
+#__loupe {
+	top: 5px;
+	left: 0px;
+	width: 27.140747070312px;
+	height: 27.140495300293px;
+}
+#loupe {
+	top: 0px;
+	left: 0px;
+	width: 27.140747070312px;
+	height: 27.140495300293px;
+}
+
+#____1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 27.140747070312px;
+	height: 27.140495300293px;
+}
+
+#__einkaufskorb {
+	top: 0px;
+	left: 113px;
+	width: 38.580322265625px;
+	height: 32.149963378906px;
+}
+#korb {
+	top: 0px;
+	left: 0px;
+	width: 38.580322265625px;
+	height: 32.149963378906px;
+}
+
+#____5 {
+	top: 0px;
+	left: 0px;
+	width: 38.580322265625px;
+	height: 32.149959564209px;
+}
+
+#produkt_anpreisung {
+	top: 1028px;
+	left: 303px;
+	width: 794px;
+	height: 632.01818847656px;
+}
+
+#____2_ek1 {
+	top: 0px;
+	left: 397px;
+	width: 397px;
+	height: 316px;
+	background:rgba(245,245,245,255);
+}
+
+
+#girl_5760039_640 {
+	top: 316px;
+	left: 397px;
+	width: 397px;
+	height: 316px;
+}
+
+
+#jonas_jaeken_31upv631160_unsplash {
+	top: 0px;
+	left: 0px;
+	width: 397px;
+	height: 316px;
+}
+
+
+#____4 {
+	top: 316px;
+	left: 0px;
+	width: 397px;
+	height: 316px;
+}
+
+
+#masken__f_r_gro__und_klein {
+	top: 124px;
+	left: 458px;
+	width: 271px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 28px;
+	text-align: center;
+	color:#101010;
+}
+
+
+#in_verschiedensten__farben_und_mustern__erh_ltlich {
+	top: 423px;
+	left: 43px;
+	width: 307px;
+	height: 122px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 28px;
+	text-align: center;
+	color:#101010;
+}
+
+#top_sellers {
+	top: 1764px;
+	left: 115px;
+	width: 1087px;
+	height: 399px;
+}
+#produktvorschlag3 {
+	top: 78px;
+	left: 731px;
+	width: 356px;
+	height: 321px;
+}
+
+#____8 {
+	top: 37px;
+	left: 72px;
+	width: 286px;
+	height: 286px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#pexels_august_de_richelieu_4261258 {
+	top: 37px;
+	left: 72px;
+	width: 284px;
+	height: 198px;
+}
+
+
+#percentage {
+	top: 0px;
+	left: 0px;
+	width: 136px;
+	height: 136px;
+}
+
+
+#_11_99_ {
+	top: 284px;
+	left: 289px;
+	width: 64px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kinder_maske_muster {
+	top: 254px;
+	left: 89px;
+	width: 219px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kinder {
+	top: 290px;
+	left: 89px;
+	width: 52px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+#produktvorschlag2 {
+	top: 78px;
+	left: 366px;
+	width: 352px;
+	height: 321px;
+}
+
+#____8_ek1 {
+	top: 37px;
+	left: 68px;
+	width: 286px;
+	height: 286px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#pexels_helena_lopes_4453126 {
+	top: 37px;
+	left: 68px;
+	width: 284px;
+	height: 198px;
+}
+
+
+#percentage_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 136px;
+	height: 136px;
+}
+
+
+#_7_99_ {
+	top: 284px;
+	left: 284px;
+	width: 60px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kinder_maske_rot {
+	top: 253px;
+	left: 85px;
+	width: 177px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#010101;
+}
+
+
+#kinder_ek1 {
+	top: 287px;
+	left: 85px;
+	width: 52px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+#produktvorschlag1 {
+	top: 78px;
+	left: 0px;
+	width: 349px;
+	height: 321px;
+}
+
+#____8_ek2 {
+	top: 37px;
+	left: 68px;
+	width: 283px;
+	height: 286px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#pexels_tim_douglas_6567181 {
+	top: 37px;
+	left: 68px;
+	width: 281px;
+	height: 198px;
+}
+
+
+#percentage_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 136px;
+	height: 136px;
+}
+
+
+#_9_99_ {
+	top: 285px;
+	left: 282px;
+	width: 62px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#070707;
+}
+
+
+#ffp2_masken {
+	top: 288px;
+	left: 81px;
+	width: 100px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ffp2_maske_klassik {
+	top: 253px;
+	left: 81px;
+	width: 201px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#top_sellers_ek1 {
+	top: 0px;
+	left: 68px;
+	width: 237px;
+	height: 79.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 47px;
+	text-align: left;
+	color:#000000;
+}
+
+#footer {
+	top: 2355px;
+	left: 0px;
+	width: 1400px;
+	height: 282.5px;
+}
+#___zahlung {
+	top: 32px;
+	left: 1022px;
+	width: 248px;
+	height: 250px;
+}
+
+
+
+
+#zahlungsmöglichkeiten {
+	top: 23px;
+	left: 17px;
+	width: 221px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_029_paypal {
+	top: 45px;
+	left: 41px;
+	width: 83px;
+	height: 83px;
+}
+
+
+#_040_visa {
+	top: 161px;
+	left: 154px;
+	width: 53px;
+	height: 53px;
+}
+
+
+#_025_mastercard {
+	top: 156px;
+	left: 47px;
+	width: 64px;
+	height: 64px;
+}
+
+
+#_023_mastercard {
+	top: 54px;
+	left: 148px;
+	width: 65px;
+	height: 65px;
+}
+
+#bestellungen_rückversand {
+	top: 33px;
+	left: 702px;
+	width: 295px;
+	height: 250px;
+}
+
+
+#____9_ek1 {
+	opacity:0.81;
+	top: 0px;
+	left: 0px;
+	width: 295px;
+	height: 250px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(243,243,243,255);
+}
+
+
+#informationen {
+	top: 22px;
+	left: 83px;
+	width: 135px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+#___14 {
+	top: 60px;
+	left: 38px;
+	width: 201px;
+	height: 50px;
+}
+
+#____10 {
+	top: 0px;
+	left: 0px;
+	width: 201px;
+	height: 50px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(201,201,201,255);
+}
+
+
+#bestellungen {
+	top: 13px;
+	left: 35px;
+	width: 139px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#___16 {
+	top: 186px;
+	left: 38px;
+	width: 201px;
+	height: 50px;
+}
+
+#____11 {
+	top: 0px;
+	left: 0px;
+	width: 201px;
+	height: 50px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(201,201,201,255);
+}
+
+
+#policy {
+	top: 13px;
+	left: 70px;
+	width: 64px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#___15 {
+	top: 123px;
+	left: 38px;
+	width: 201px;
+	height: 50px;
+}
+
+#____12 {
+	top: 0px;
+	left: 0px;
+	width: 201px;
+	height: 50px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(201,201,201,255);
+}
+
+
+#r_ckversand {
+	top: 13px;
+	left: 35px;
+	width: 135px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#service {
+	top: 33px;
+	left: 435px;
+	width: 242px;
+	height: 250px;
+}
+
+#____9_ek2 {
+	opacity:0.81;
+	top: 0px;
+	left: 0px;
+	width: 242px;
+	height: 250px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(243,243,243,255);
+}
+
+
+#service_ek1 {
+	top: 23px;
+	left: 88px;
+	width: 70px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#____10_ek1 {
+	top: 71px;
+	left: 49px;
+	width: 144px;
+	height: 50px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(201,201,201,255);
+}
+
+
+#faq {
+	top: 84px;
+	left: 100px;
+	width: 48px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#____11_ek1 {
+	top: 160px;
+	left: 49px;
+	width: 144px;
+	height: 50px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(201,201,201,255);
+}
+
+
+#about_us {
+	top: 173px;
+	left: 76px;
+	width: 96px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#___20 {
+	top: 33px;
+	left: 130px;
+	width: 280px;
+	height: 250px;
+}
+
+#____9_ek3 {
+	opacity:0.81;
+	top: 0px;
+	left: 0px;
+	width: 280px;
+	height: 250px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(243,243,243,255);
+}
+
+
+#newsletter_anmeldung {
+	top: 24px;
+	left: 34px;
+	width: 216px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#____10_ek2 {
+	top: 71px;
+	left: 34px;
+	width: 212px;
+	height: 50px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(201,201,201,255);
+}
+
+
+#e_mail {
+	top: 84px;
+	left: 108px;
+	width: 67px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#___18 {
+	top: 138px;
+	left: 93px;
+	width: 96px;
+	height: 44px;
+}
+
+#____11_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 96px;
+	height: 44px;
+	-ms-border-radius: 16px;
+	-o-border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	background:rgba(201,201,201,255);
+}
+
+
+#button {
+	top: 10px;
+	left: 13px;
+	width: 75px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#____1_ek2 {
+	top: -1px;
+	left: 0px;
+	width: 1400px;
+	height: 1px;
+}
+
+
+
+/* Add your custom CSS here */
